@@ -1,0 +1,11 @@
+:HL["/_next/static/chunks/38lii_zrjguca.css","style"]
+:HL["/_next/static/media/2aa781f449db21e3-s.p.1pg2nifvadz06.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f06bf9da926bae75-s.p.2874ccu1_u7jf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/0n8kzvw2z_6as.css","style"]
+:HL["/img/brand/location-link-logo.png","image"]
+:HL["/img/areas/shoreditch-street.jpg","image"]
+:HL["/img/areas/spitalfields-market.jpg","image"]
+:HL["/img/areas/brick-lane.jpg","image"]
+:HL["/img/areas/columbia-road.jpg","image"]
+:HL["/img/areas/spitalfields-building.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"8h3J3HzaSNYHccnKiCB4Q"}
